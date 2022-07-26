@@ -103,7 +103,7 @@ section{
                               /* HOME  STYLING */
 .home{
   margin-top: 7rem;
-  background: url("Resources/Home-page-main-pic.jpg");
+  background-image: url("Resources/Home-page-main-pic.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
